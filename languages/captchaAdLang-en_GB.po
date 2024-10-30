@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: captchaad.php:139
+#@ captchaAdLang
+msgid "Update successfull."
+msgstr "Update successfull."
+
+#: captchaad.php:141
+#@ captchaAdLang
+msgid "Sorry, something went wrong."
+msgstr "Sorry, something went wrong."
+
+#: captchaad.php:147
+#@ captchaAdLang
+msgid "Options &rsaquo;&nbsp;&nbsp;"
+msgstr "Options &rsaquo;&nbsp;&nbsp;"
+
+#: captchaad.php:151
+#@ captchaAdLang
+msgid "Please contact CaptchaAd for the required informations."
+msgstr "Please contact CaptchaAd for the required informations."
+
+#: captchaad.php:174
+#@ captchaAdLang
+msgid ""
+"The 32-digit API key is used for identification.<br />\n"
+"\t\t\t\t\tTo use the CaptchaAd plugin, you need this key.<br />\n"
+"\t\t\t\t\tYou get this key from CaptchaAd.<br />\n"
+"          Fon: +49 (0) 89.237 129 - 21<br />\n"
+"\t\t\t\t\tMail: <a href=\"mailto:wordpress@captchaad.com\">wordpress@captchaad.com</a>"
+msgstr ""
+"The 32-digit API key is used for identification.<br />\n"
+"\\\t\\\t\\\t\\\t\\\tTo use the CaptchaAd plugin, you need this key.<br />\n"
+"\\\t\\\t\\\t\\\t\\\tYou get this key from CaptchaAd.<br />\n"
+"          Fon: +49 (0) 89.237 129 - 21<br />\n"
+"\\\t\\\t\\\t\\\t\\\tMail: <a href=\"mailto:wordpress@captchaad.com\">wordpress@captchaad.com</a>"
+
+#: captchaad.php:177
+#@ captchaAdLang
+msgid "Comments"
+msgstr "Comments"
+
+#: captchaad.php:184
+#@ captchaAdLang
+msgid "Registration"
+msgstr "Registration"
+
+#: captchaad.php:190
+#@ captchaAdLang
+msgid "Options"
+msgstr "Options"
+
+# @ captchaAdLang
+#: captchaad.php:195
+msgid "Stage"
+msgstr "Stage"
+
+# @ captchaAdLang
+#: captchaad.php:197
+msgid "Width"
+msgstr "Width"
+
+# @ captchaAdLang
+#: captchaad.php:200
+msgid "Height"
+msgstr "Height"
+
+# @ captchaAdAutoPlay
+#: captchaad.php:207
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: captchaad.php:224
+#@ captchaAdLang
+msgid "reCAPTCHA <small>(&copy; Google)</small>"
+msgstr "reCAPTCHA <small>(&copy; Google)</small>"
+
+#: captchaad.php:207
+#@ captchaAdAutoPlay
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: captchaad.php:226
+#@ captchaAdLang
+msgid "To ensure spam protection, CaptchaAd requires an alternative in case of disabled Flash or JavaScript. <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> will be displayed instead."
+msgstr "To ensure spam protection, CaptchaAd requires an alternative in case of disabled Flash or JavaScript. <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> will be displayed instead."
+
+#: captchaad.php:232
+#@ captchaAdLang
+msgid "Public Key"
+msgstr "Public Key"
+
+#: captchaad.php:237
+#@ captchaAdLang
+msgid "Public Key from reCAPTCHA"
+msgstr "Public Key from reCAPTCHA"
+
+#: captchaad.php:243
+#@ captchaAdLang
+msgid "Private Key"
+msgstr "Private Key"
+
+#: captchaad.php:248
+#@ captchaAdLang
+msgid "Private Key from reCAPTCHA"
+msgstr "Private Key from reCAPTCHA"
+
+#: captchaad.php:254
+#@ captchaAdLang
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: captchaad.lib.php:73
+#@ captchaAdLang
+msgid "Error: Answer the question in the movie, please."
+msgstr "Error: Answer the question in the movie, please."
+
+#: captchaad.lib.php:77
+#@ captchaAdLang
+msgid "Error: Type in the shown signs, please."
+msgstr "Error: Type in the shown signs, please."
+
+#: captchaad.lib.php:95
+#@ captchaAdLang
+msgid "<strong>Error:</strong> Answer the question in the movie, please."
+msgstr "<strong>Error:</strong> Answer the question in the movie, please."
+
+#: captchaad.lib.php:99
+#@ captchaAdLang
+msgid "<strong>Error:</strong> Type in the shown signs, please."
+msgstr "<strong>Error:</strong> Type in the shown signs, please."
+

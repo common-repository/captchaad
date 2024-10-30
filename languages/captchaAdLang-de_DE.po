@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-04-23 16:29+0100\n"
+"PO-Revision-Date: 2013-04-23 18:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../captchaad.php:54
+msgid ""
+"<strong>Error:</strong> Answer correctly to the question in the movie, "
+"please."
+msgstr "Fehler: Bitte beantworten Sie die Frage des Videos."
+
+#: ../captchaad.php:58
+msgid "<strong>Error:</strong> Type in the shown signs, please."
+msgstr "Fehler: Bitte geben Sie die gezeigten Zeichen ein."
+
+#: ../captchaad.php:77
+msgid "Error: Answer correctly to the question in the movie."
+msgstr "Fehler: Bitte beantworten Sie die Frage des Videos."
+
+#: ../captchaad.php:81
+msgid "Error: Type in the shown signs, please."
+msgstr "Fehler: Bitte geben Sie die gezeigten Zeichen ein."
+
+#: ../captchaad.php:177
+msgid "Update successful."
+msgstr "Update erfolgreich."
+
+#: ../captchaad.php:179
+msgid "Sorry, something went wrong."
+msgstr "Entschuldigung, ein Fehler ist aufgetreten."
+
+#: ../captchaad.php:185
+msgid "Options &rsaquo;&nbsp;&nbsp;"
+msgstr "Optionen &rsaquo;&nbsp;&nbsp;"
+
+#: ../captchaad.php:189
+msgid ""
+"Questions or problems with the configuration, pls contact us via e-mail, "
+"wordpress@captchaad.com"
+msgstr ""
+"Fragen oder Probleme mit der Konfiguration, bitte kontaktieren Sie uns via E-"
+"Mail, wordpress@captchaad.com."
+
+#: ../captchaad.php:197
+msgid "Player ID"
+msgstr "Player ID"
+
+#: ../captchaad.php:203
+msgid ""
+"You get this key from CaptchaAd.<br />\n"
+"                                      Telefon: +49 (0) 89.237 129 21<br />\n"
+"                                      Mail: <a href=\"mailto:"
+"wordpress@captchaad.com\">wordpress@captchaad.com</a>"
+msgstr ""
+"Sie erhalten diesen Schlüssel von CaptchaAd.<br />\n"
+"                                                         Telefon: +49 (0) "
+"89.237 129 21<br />\n"
+"                                                        Mail: <a href="
+"\"mailto:wordpress@captchaad.com\">wordpress@captchaad.com</a>"
+
+#: ../captchaad.php:212
+msgid "Show at"
+msgstr "Anzeigen in"
+
+#: ../captchaad.php:215
+msgid "Comments"
+msgstr "Kommentaren"
+
+#: ../captchaad.php:222
+msgid "Registration"
+msgstr "Registrierung"
+
+#: ../captchaad.php:228
+msgid "Options"
+msgstr "Optionen"
+
+#: ../captchaad.php:233
+msgid "Stage"
+msgstr "Bühne"
+
+#: ../captchaad.php:235
+msgid "Width"
+msgstr "Breite"
+
+#: ../captchaad.php:238
+msgid "Height"
+msgstr "Höhe"
+
+#: ../captchaad.php:245
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: ../captchaad.php:262
+msgid "reCAPTCHA <small>(&copy; Google)</small>"
+msgstr "reCAPTCHA <small>(&copy; Google)</small>"
+
+#: ../captchaad.php:264
+msgid ""
+"To ensure spam protection, CaptchaAd requires an alternative in case of "
+"disabled Flash or JavaScript. <a href=\"http://www.google.com/recaptcha\" "
+"target=\"_blank\">reCAPTCHA</a> will be displayed instead."
+msgstr ""
+"Um den Spamschutz garantieren zu können, benötigt das CaptchaAd, welches auf "
+"Flash und JavaScript angewiesen ist, eine mögliche Alternative. Falls der "
+"Internetbrowser eine der genannten Technologien nicht unterstützt, wird ein "
+"<a href=\"http://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> "
+"angezeigt."
+
+#: ../captchaad.php:270
+msgid "Public Key"
+msgstr "Public Key"
+
+#: ../captchaad.php:275
+msgid "Public Key from reCAPTCHA"
+msgstr "Öffentlicher Schlüssel von reCAPTCHA"
+
+#: ../captchaad.php:281
+msgid "Private Key"
+msgstr "Private Key"
+
+#: ../captchaad.php:286
+msgid "Private Key from reCAPTCHA"
+msgstr "Privater Schlüssel von reCAPTCHA"
+
+#: ../captchaad.php:291
+msgid "Save Changes"
+msgstr "Änderungen speichern"
